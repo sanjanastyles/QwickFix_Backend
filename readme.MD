@@ -14,7 +14,7 @@ this is a backend application designed to [brief description of what Titan is].
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sanjanastyles/Titan.git
+   git clone https://github.com/sanjanastyles/QwickFix_Backend.git
    cd titan
    ```
 2. Install dependencies:
