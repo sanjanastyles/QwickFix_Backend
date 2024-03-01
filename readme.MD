@@ -1,6 +1,6 @@
 # Backend
 
-this is a backend application designed to [brief description of what Titan is].
+this is a backend application designed to [brief description of what QwickFix_Backend is].
 
 ## Table of Contents
 
@@ -15,7 +15,7 @@ this is a backend application designed to [brief description of what Titan is].
 1. Clone the repository:
    ```bash
    git clone https://github.com/sanjanastyles/QwickFix_Backend.git
-   cd titan
+   cd QwickFix_Backend
    ```
 2. Install dependencies:
    ```bash
