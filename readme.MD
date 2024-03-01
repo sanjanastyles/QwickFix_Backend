@@ -1,6 +1,6 @@
-# Titan Backend
+# Backend
 
-Titan is a backend application designed to [brief description of what Titan is].
+this is a backend application designed to [brief description of what Titan is].
 
 ## Table of Contents
 
